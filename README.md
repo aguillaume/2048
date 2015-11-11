@@ -2,6 +2,7 @@
 An adaptation of the adictive 2048 game. Substituted the numbers with family pictures to create an family entrataing version of this game. 
 
 The main purpose of this was to practice using GitHub as a repository.
+This was inspired from the Udacity.com short introduction course on GitHub.
 
 -----------------------------------------------------------------------
 
